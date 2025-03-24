@@ -1,4 +1,4 @@
-# Resolution of xxx for NTIRE 2025 CDFSOD Challenge
+# Resolution of FDUROILab_Lenovo for NTIRE 2025 CDFSOD Challenge
 
 ## Quick Start
 ### Data Preparation
