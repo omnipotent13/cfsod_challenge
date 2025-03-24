@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "dent"
+        },
+        {
+            "id": 2,
+            "name": "scratch"
+        },
+        {
+            "id": 3,
+            "name": "crack"
+        },
+        {
+            "id": 4,
+            "name": "glass shatter"
+        },
+        {
+            "id": 5,
+            "name": "lamp broken"
+        },
+        {
+            "id": 6,
+            "name": "tire flat"
+        }
+    ]
+}

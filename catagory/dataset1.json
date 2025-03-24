@@ -1,0 +1,32 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "apple"
+        },
+        {
+            "id": 1,
+            "name": "avocado"
+        },
+        {
+            "id": 2,
+            "name": "capsicum"
+        },
+        {
+            "id": 3,
+            "name": "mango"
+        },
+        {
+            "id": 4,
+            "name": "orange"
+        },
+        {
+            "id": 5,
+            "name": "rockmelon"
+        },
+        {
+            "id": 6,
+            "name": "strawberry"
+        }
+    ]
+}
