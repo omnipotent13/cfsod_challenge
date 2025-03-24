@@ -74,5 +74,7 @@ python clean/dataset2/clean_d2_result.py
 python clean/dataset3/clean_d3_result.py
 ```
 
+Because we utilize Qwen2.5VL to obtain object categories of each picture, we have provided the pre-computed categories file and you don't need to generate it by your own self.
+
 Finally, please run the `obtain_submit.py` to generate the final file for submission.
 
